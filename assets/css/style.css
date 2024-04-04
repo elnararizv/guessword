@@ -1,0 +1,6 @@
+h1 {
+    background: linear-gradient(to bottom, #dfd224, red, #4295f3);
+    background-clip: text;
+    color: transparent;
+    font-weight: bolder;
+}
