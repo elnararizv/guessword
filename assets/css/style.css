@@ -4,3 +4,24 @@ h1 {
     color: transparent;
     font-weight: bolder;
 }
+@media only screen and (max-width:761px){
+    .inp{
+        width: 450px;
+    }
+    .input-group{
+        display: block;
+        width: 90%;
+    }
+    button{
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width:450px){
+    .inp{
+        width: 650px;
+    }
+    .input-group{
+        display: block;
+        width: 90%;
+    }
+}
